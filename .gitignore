@@ -31,3 +31,10 @@
 *.out
 *.app
 /.vs
+Donut 3D/x64/Debug/Donut 3D.ilk
+Donut 3D/x64/Debug/Donut 3D.log
+Donut 3D/x64/Debug/Donut 3D.tlog/link.read.1.tlog
+Donut 3D/x64/Debug/Donut 3D.tlog/link.write.1.tlog
+Donut 3D/x64/Debug/vc143.idb
+Donut 3D/x64/Debug/vc143.pdb
+x64/Debug/Donut 3D.pdb
